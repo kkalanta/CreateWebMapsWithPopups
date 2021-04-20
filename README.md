@@ -3,7 +3,7 @@ Current Python script includes steps to create a web map from feature layer coll
 
 # Python Version
 - Python 3.7.9
-- ArcGIS API for Python version 1.8.4 (modules of arcgis.gis and arcgis.mapping)
+- ArcGIS API for Python version 1.8.4 (arcgis.gis and arcgis.mapping modules)
 
 # Script Steps
 The script consists of the following steps:
