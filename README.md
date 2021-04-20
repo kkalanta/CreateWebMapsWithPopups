@@ -1,9 +1,9 @@
 # Create Web Maps with Custom Popups
-Current Python script includes steps to create a web map from feature layer collection and define custom popups for operational layers of web map. In addition to HTML format, the popup function uses names or labels of fields in feature layers. It changes the color, font type, and font size of description in popups and defines decimal places and digit separators in numeric fields. 
+Current Python script includes steps to create a web map from feature layer collection and define custom popups for operational layers of web map. In addition to HTML format, the popup function uses names or labels of fields in feature layers. It changes the color, font type, and font size of description in popups, renames the title of popups, and defines decimal places and digit separators in numeric fields. 
 
 # Python Version
 - Python 3.7.9
-- ArcGIS API for Python version 1.8.4 (arcgis.gis and arcgis.mapping modules)
+- ArcGIS API for Python 1.8.4 (arcgis.gis and arcgis.mapping modules)
 
 # Script Steps
 The script consists of the following steps:
